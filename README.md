@@ -81,7 +81,7 @@ https://github.com/AdamWelchUK/PWM85
 
 https://github.com/SpenceKonde/ATTinyCore
 
-2) ISP programmer - you can use arduino as ISP or a USBASP device (amazon.inRobu.in)
+2) ISP programmer - you can use arduino as ISP or a USBASP device
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/ArduinoISP#use-arduino-as-isp
 
