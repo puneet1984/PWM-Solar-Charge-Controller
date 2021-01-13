@@ -10,6 +10,7 @@ To store the solar energy we need a storage device and for that we use a battery
 For most of us lead-acid is the choice because of the purchase cost, availability and ease of charging.
 
 This PWM solar charge controller is inspired and adopted from Julian Ilett and Adam Welch work.
+
 Please visit Adam Welch github for reference. (https://github.com/AdamWelchUK/PWM85)
 
 # Supplies:
@@ -34,6 +35,8 @@ Charging Over current protection - internal mosfet controlled ( mosfet temp cont
 
 Requires a reverse polarity protection diode on the solar panel connections (most solar panel include it -prebuilt)
 
+# Schematic
+
 The schematic is drawn using easyeda software. Its easy and has most of the components with their footprint.
 
 With easyeda it's also extremely easy to export the gerber files and assembly files to jlcpcb for fabrication as easyeda and jlcpcb are very nicely integrated together.
@@ -49,7 +52,7 @@ The schematic comprises of 3 parts
 # Ordering PCBs
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB.com , and click on “QUOTE NOW” button.
-JLCPCB are also sponsor of this project. JLCPCB (Shenzhen JLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production. You can order a minimum of 5 PCBs for just $2. To get the PCB manufactured, upload the gerber file you downloaded in the last step. Upload the .zip file or you can also drag and drop the gerber files. After uploading the zip file, you’ll see a success message at the bottom if the file is successfully uploaded. You can review the PCB in the Gerber viewer to make sure everything is good. You can view both top and bottom of the PCB. After making sure the PCB looks good, you can now place the order at a reasonable price. You can order 5 PCBs for just $2 plus shipping. To place the order, click on “SAVE TO CART” button. My PCBs took 2 days to get manufactured and arrived within 20 days using standard registered post delivery option. There are fast delivery options also available.PCBs were well packed and the quality was really good. JLCPCB is now offering SMT assembly service that too at a very reasonable price and after trying it I must say that they are doing excellent work and their craftsmanship is comparable to any other commercial PCB manufacturing and assembly service all over the world. Their backend team is so efficient and through that they will check each and every design and component placement and will inform the customer about required changes in design or about wrong placement and polarity of the components and correct the minor issues at their end itself.
+JLCPCB are also sponsor of this project. JLCPCB (Shenzhen JLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production. You can order a minimum of 5 PCBs for just $2. To get the PCB manufactured, upload the gerber file you downloaded in the last step. Upload the .zip file or you can also drag and drop the gerber files. After uploading the zip file, you’ll see a success message at the bottom if the file is successfully uploaded. You can review the PCB in the Gerber viewer to make sure everything is good. You can view both top and bottom of the PCB. After making sure the PCB looks good, you can now place the order at a reasonable price. You can order 5 PCBs for just $2 plus shipping. To place the order, click on “SAVE TO CART” button. My PCBs took 5 days to get manufactured and arrived within 20 days using standard registered post delivery option. There are fast delivery options also available. PCBs were well packed and the quality was really good. JLCPCB is now offering SMT assembly service that too at a very reasonable price and after trying it I must say that they are doing excellent work and their craftsmanship is comparable to any other commercial PCB manufacturing and assembly service all over the world. Their backend team is so efficient and through that they will check each and every design and component placement and will inform the customer about required changes in design or about wrong placement and polarity of the components and correct the minor issues at their end itself.
 
 # Working
 
