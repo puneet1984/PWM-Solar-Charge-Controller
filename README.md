@@ -72,14 +72,17 @@ For more details on the PWM please visit WikiPedia
 
 # Arduino Code
 download code from here - thanks to adam welch for coding and making it bugs-free
+
 https://github.com/AdamWelchUK/PWM85
 
 # Pre requisites
 
 1) ATTINY board manager installed - download board files from here
+
 https://github.com/SpenceKonde/ATTinyCore
 
 2) ISP programmer - you can use arduino as ISP or a USBASP device (amazon.inRobu.in)
+
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/ArduinoISP#use-arduino-as-isp
 
 https://www.amazon.in/Robocraze-USB-AVR-ISP-Programmer/dp/B07928QG37/ref=sr_1_6?crid=20K4D34EBYG9V&dchild=1&keywords=usbasp+programmer&qid=1609824014&sprefix=usbasp%2Caps%2C307&sr=8-6
@@ -89,6 +92,7 @@ https://robu.in/product/usbasp-avr-programming-device-for-atmel-proccessors/
 You will also need a 10pin to 6pin adapter converter
 
 Windows 10 USBASP install guide
+
 https://www.instructables.com/USBASP-Installation-in-Windows-10/
 
 3) Arduino IDE
